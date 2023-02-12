@@ -4,4 +4,4 @@
 
 JS放在keyword.js中，HTML+CSS太过简单，需要者自行修改即可！
 
-简单易用，有问题可登录https://qsect.eu.org留言交流
+简单易用，有问题可登录https://qsect.eu.org  留言交流
