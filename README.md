@@ -3,3 +3,5 @@
 采用HTML+CSS+JQ开发的最简单的静态页面，搭配github pages或者是coding pages食用效果最佳！
 
 JS放在keyword.js中，HTML+CSS太过简单，需要者自行修改即可！
+
+简单易用，有问题可登录https://qsect.eu.org留言交流
